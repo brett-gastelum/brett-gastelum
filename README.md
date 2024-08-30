@@ -4,3 +4,6 @@
 - [Professional Statement](https://github.com/brett-gastelum/professional-statement)
 ---
 <img src="https://tryhackme-badges.s3.amazonaws.com/BashfulGhost.png" alt="TryHackMe">
+
+# TryHackMe Badges:
+<a href="https://tryhackme.com/BashfulGhost/badges/first-4-rooms"><img src="https://tryhackme.com/img/badges/firstfour.svg" height="128" width="128" alt="First Four"></a>
