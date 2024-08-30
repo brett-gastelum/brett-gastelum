@@ -1,10 +1,11 @@
 # Hello, I'm Brett!😎🤙🏼
-### A dynamic and resourceful professional with a love and passion for technology and cybersecurity. Can clearly and effecticely communicate with teams and clients. Excels at participating in collaborative effots with teammates and sharing insight gained form working with previous teams. Self-starter and self-motivator that enjoys building interpersonal and interdepartmental relations
+## Google Cybersecurity Certified | Security Researcher | Junior Penetration Tester | Analyst
+### A dynamic and resourceful professional with a love and passion for technology and cybersecurity. Can clearly and effecticely communicate with teams and clients. Excels at participating in collaborative effots with teammates and sharing insight gained form working with previous teams. Self-starter and self-motivator that enjoys building interpersonal and interdepartmental relations. Currently ranked in the top 8% of TryHackMe.
 
 ---
 
 # TryHackMe Badges:
-<img src="https://tryhackme-badges.s3.amazonaws.com/BashfulGhost.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/BashfulGhost.png?3" alt="TryHackMe">
 
 <a href="https://tryhackme.com/BashfulGhost/badges/first-4-rooms"><img src="https://tryhackme.com/img/badges/firstfour.svg" height="128" width="128" alt="First Four"></a>
 <a href="https://tryhackme.com/BashfulGhost/badges/intro-to-pentesting"><img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" height="128" width="128" alt="Pentesting Principles"></a>
