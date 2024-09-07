@@ -31,6 +31,7 @@
 ### Programming and Scripting:
 - Familiar with Python programming for automation, security scripts, and developing custom tools for cybersecurity tasks.
 - Proficient in using Bash and PowerShell for automation, system administration, and penetration testing tasks.
+- Java for Inernet Voice Relay (IVR) calls.
 
 ### Cloud and Network Security:
 - Understanding of cloud security fundamentals, shared responsibility models, and securing cloud infrastructure (Google Cloud Platform, AWS basics).
@@ -52,13 +53,13 @@
 - **Security Configuration and Management:** pfSense, iptables, Snort, Windows Sysinternals Suite
 
 ### Soft Skills:
-- **Strong Communication and Collaboration:** Jabber, Teams, Outlook, Slack, Discord, Google Chat
+- **Strong Communication and Collaboration:** Jabber, Teams, Slack, Discord, Google Chat, Email
+- **Time Management and Prioritization:** Asana, JIRA, SalesForce, Harvest
 - Critical Thinking and Problem Solving
 - Adaptability and Quick Learning
 - Attention to Detail
-- **Time Management and Prioritization:** Asana, JIRA, SalesForce, Harvest
 - Customer Service and Relationship Building
-- Production Training
+- Product Training and Onboarding
 ---
 
 ## **Certifications and Training**
